@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "ComEMR Copilot",
+    "created": "2025-12-18T16:31:47.442952",
+    "namespace": "default"
+  },
+  {
+    "id": 2,
+    "name": "ComEMR Copilot",
+    "created": "2025-12-18T16:52:36.295453",
+    "namespace": "default"
+  },
+  {
+    "id": 3,
+    "name": "ComEMR Copilot",
+    "created": "2025-12-18T17:13:40.554093",
+    "namespace": "default"
+  },
+  {
+    "id": 4,
+    "name": "ComEMR Copilot",
+    "created": "2025-12-18T20:00:59.831777",
+    "namespace": "default"
+  },
+  {
+    "id": 5,
+    "name": "ComEMR Copilot",
+    "created": "2025-12-18T20:18:15.653145",
+    "namespace": "default"
+  }
+]
