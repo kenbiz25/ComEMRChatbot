@@ -59,9 +59,9 @@ Roadmap
 ✅ Backend + Frontend integration
 ✅ KB ingestion and indexing
 🔲 WhatsApp gateway integration
-🔲 Role-based responses (CHW, Admin)
+✅ Role-based responses (CHW, Admin)
 🔲 Deployment (Docker + CI/CD)
-🔲 Multi-language support (English + Swahili)
+🔲 Multi-language support (English + Kreo)
 
 Contributing
 
