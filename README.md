@@ -106,11 +106,3 @@ git commit -m "Add new feature"Show more lines
 4. Push and open a PR
 
 
-## Improvements Made:
-✔ Added headings and icons for better readability
-✔ Used code blocks for commands
-✔ Organized sections with clear separation
-✔ Highlighted important flags and steps
-✔ Made roadmap visually appealing
-
-
